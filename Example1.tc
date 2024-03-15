@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>xxxxxxUpload</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ada01f87-e913-4b40-8439-6669fa8493d7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>05a48410-13e5-4509-a277-cc7e1df2e9d4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3080c643-4fbc-4688-bf17-a77eb680bc70</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9fe27b91-e36c-48aa-9ace-614e1a16dda5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\xxx\\\\xxx\\\\xxx\\\\xxx\\\\xxxTeste.xlsx'</defaultValue>
+      <description></description>
+      <id>05a48410-13e5-4509-a277-cc7e1df2e9d4</id>
+      <masked>false</masked>
+      <name>excelPath</name>
+   </variable>
+   <variable>
+      <defaultValue>'xxxx'</defaultValue>
+      <description></description>
+      <id>3080c643-4fbc-4688-bf17-a77eb680bc70</id>
+      <masked>false</masked>
+      <name>sheetName</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\\\\\\\xxx\\\\\\\\xxx\\\\\\\\xxx\\\\\\\\xxxx\\\\\\xxxxTeste.xlsx'</defaultValue>
+      <description></description>
+      <id>9fe27b91-e36c-48aa-9ace-614e1a16dda5</id>
+      <masked>false</masked>
+      <name>excelAnexo</name>
+   </variable>
+</TestCaseEntity>
